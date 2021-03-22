@@ -669,7 +669,6 @@ void  LCD_Draw_Text2(const char* Text, int16_t X, int16_t Y, uint16_t Colour, ui
 
 
 char* MontTable[] = {"   ","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
-char* VeryLongText = "          Privet Jenechka. Pogoda segodnya xoroshaya .Poidem gulat' skoree!!!        ";
 void dTest()
 {
 	  {
